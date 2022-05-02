@@ -1,0 +1,16 @@
+# Env
+/.env
+
+# Composer
+/vendor
+
+# IDE
+.idea
+
+# windows thumbnail cache
+Thumbs.db
+
+#Google Drive config file
+auth_config.json
+
+/storage
